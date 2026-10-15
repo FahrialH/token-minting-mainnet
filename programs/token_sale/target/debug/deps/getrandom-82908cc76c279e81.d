@@ -1,0 +1,10 @@
+D:\IDP-opentech\token-minting - Copy\programs\token_sale\target\debug\deps\getrandom-82908cc76c279e81.d: C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\lib.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\error.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\util.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\custom.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\error_impls.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\windows.rs
+
+D:\IDP-opentech\token-minting - Copy\programs\token_sale\target\debug\deps\libgetrandom-82908cc76c279e81.rmeta: C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\lib.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\error.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\util.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\custom.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\error_impls.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\windows.rs
+
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\lib.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\error.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\util.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\custom.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\error_impls.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.17\src\windows.rs:

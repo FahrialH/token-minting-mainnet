@@ -1,0 +1,14 @@
+D:\IDP-opentech\token-minting - Copy\programs\token_sale\target\debug\deps\serde-6f27caac0893f1b6.d: C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\IDP-opentech\token-minting\ -\ Copy\programs\token_sale\target\debug\build\serde-e072a6d79664fc42\out/private.rs
+
+D:\IDP-opentech\token-minting - Copy\programs\token_sale\target\debug\deps\libserde-6f27caac0893f1b6.rlib: C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\IDP-opentech\token-minting\ -\ Copy\programs\token_sale\target\debug\build\serde-e072a6d79664fc42\out/private.rs
+
+D:\IDP-opentech\token-minting - Copy\programs\token_sale\target\debug\deps\libserde-6f27caac0893f1b6.rmeta: C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\IDP-opentech\token-minting\ -\ Copy\programs\token_sale\target\debug\build\serde-e072a6d79664fc42\out/private.rs
+
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\fahri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+D:\IDP-opentech\token-minting\ -\ Copy\programs\token_sale\target\debug\build\serde-e072a6d79664fc42\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\IDP-opentech\\token-minting - Copy\\programs\\token_sale\\target\\debug\\build\\serde-e072a6d79664fc42\\out
